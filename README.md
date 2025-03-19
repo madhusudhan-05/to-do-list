@@ -1,4 +1,4 @@
-# Task List App
+# To do list App
 
 This is a simple **Task List App** built using HTML, CSS, and JavaScript. The app allows users to add, remove, and manage tasks dynamically in a to-do list format.
 
